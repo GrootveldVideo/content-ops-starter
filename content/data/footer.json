@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "<div style=\"text-align: center\">Video services for business needs</div>\n\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
