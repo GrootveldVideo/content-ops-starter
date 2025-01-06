@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Video services for business needs\n",
+    "text": "<div style=\"text-align: center\">Video services for business needs</div>\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
