@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: For booking and inquiries contact grootveldvideo@gmail.com
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Primarily serving the Central Iowa market my focus is producing high
+      quality video content for businesses and organizations with a variety of
+      needs including customer and employee testimonials, hiring and training
+      videos, product spotlights, or whatever your unique needs might be.
     actions:
       - label: Get started
         altText: ''
