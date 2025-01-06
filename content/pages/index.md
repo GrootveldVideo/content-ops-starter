@@ -13,16 +13,7 @@ sections:
       quality video content for businesses and organizations with a variety of
       needs including customer and employee testimonials, hiring and training
       videos, product spotlights, or whatever your unique needs might be.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/GROOTVELD BLACK PNG-1.png
       altText: Unblock your team boost your time to production preview
