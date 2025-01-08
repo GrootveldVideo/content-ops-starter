@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Portfolio
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: ''
     actions: []
