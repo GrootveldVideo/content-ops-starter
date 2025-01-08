@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/GROOTVELD BLACK PNG-1.png
       altText: Dope design preview
     badge:
       type: Badge
