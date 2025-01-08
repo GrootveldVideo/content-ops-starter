@@ -5,31 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Portfolio
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      altText: ''
-      url: /images/GROOTVELD BLACK PNG-1.png
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        justifyContent: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: ''
       color: text-dark
       styles:
