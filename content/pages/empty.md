@@ -16,7 +16,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/GROOTVELD BLACK PNG-1.png
-      altText: Dope design preview
+      altText: ''
     badge:
       type: Badge
       label: ''
