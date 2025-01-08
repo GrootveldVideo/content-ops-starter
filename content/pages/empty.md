@@ -15,7 +15,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/GROOTVELD BLACK PNG-1.png
       altText: ''
     badge:
       type: Badge
