@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "url": "/images/GROOTVELD BLACK PNG-1.png"
-    },
     "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
