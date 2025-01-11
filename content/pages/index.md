@@ -47,7 +47,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Arthritis Foundation Testimonial
       color: text-dark
       styles:
         self:
