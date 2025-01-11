@@ -45,7 +45,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: DividerSection
-    title: Divider
+    title: Portfolio
     elementId: ''
     colors: bg-light-fg-dark
     styles:
