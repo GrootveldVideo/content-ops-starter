@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Full website coming soon
+      text: Grootveld Video
       color: text-dark
       type: TitleBlock
     subtitle: For booking and inquiries contact grootveldvideo@gmail.com
