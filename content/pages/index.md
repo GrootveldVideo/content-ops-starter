@@ -54,11 +54,14 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: ''
+    text: >+
+      <div style="text-align: center">#### **Arthritis Foundation
+      Testimonial**</div>
+
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Arthritis Foundation Testimonial
       url: 'https://youtu.be/gBgwodyxBJQ'
       autoplay: false
       loop: false
