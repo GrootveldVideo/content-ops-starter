@@ -61,7 +61,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Arthritis Foundation Testimonial
       url: 'https://youtu.be/gBgwodyxBJQ'
       autoplay: false
       loop: false
