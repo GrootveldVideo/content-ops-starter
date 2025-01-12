@@ -81,5 +81,6 @@ seo:
   metaDescription: Video production
   metaTags:
     - type: MetaTag
+      property: 'og:description'
 type: PageLayout
 ---
