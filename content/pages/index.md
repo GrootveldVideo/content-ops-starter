@@ -77,5 +77,6 @@ sections:
         textAlign: left
 seo:
   type: Seo
+  metaTitle: Grootveld Video
 type: PageLayout
 ---
