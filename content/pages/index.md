@@ -54,8 +54,10 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |
-      Arthritis Foundation Testimonial
+    text: >+
+      <div style="text-align: center">## **Arthritis Foundation
+      Testimonial**</div>
+
     actions: []
     media:
       type: VideoBlock
