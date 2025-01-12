@@ -18,10 +18,6 @@ sections:
       type: ImageBlock
       url: /images/GROOTVELD BLACK PNG-1.png
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
