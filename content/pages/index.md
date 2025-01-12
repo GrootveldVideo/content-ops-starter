@@ -79,5 +79,7 @@ seo:
   type: Seo
   metaTitle: Grootveld Video
   metaDescription: Video production
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
