@@ -54,7 +54,8 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: ''
+    text: |
+      Arthritis Foundation Testimonial
     actions: []
     media:
       type: VideoBlock
