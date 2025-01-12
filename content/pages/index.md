@@ -55,7 +55,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >+
-      <div style="text-align: center">## **Arthritis Foundation
+      <div style="text-align: center">#### **Arthritis Foundation
       Testimonial**</div>
 
     actions: []
