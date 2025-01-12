@@ -82,5 +82,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:description'
+      content: 'Video Production, videography, videographer'
 type: PageLayout
 ---
