@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Grootveld Video
       color: text-dark
-    subtitle: Be in good company
+    subtitle: For booking and inquiries contact grootveldvideo@gmail.com
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
