@@ -9,8 +9,10 @@ sections:
       color: text-dark
     subtitle: For booking and inquiries contact grootveldvideo@gmail.com
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Primarily serving the Central Iowa market my focus is producing high
+      quality video content for businesses and organizations with a variety of
+      needs including customer and employee testimonials, hiring and training
+      videos, product spotlights, or whatever your unique needs might be.
     actions:
       - type: Button
         label: Get started
