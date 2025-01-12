@@ -14,12 +14,6 @@ sections:
       needs including customer and employee testimonials, hiring and training
       videos, product spotlights, or whatever your unique needs might be.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
