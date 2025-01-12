@@ -77,5 +77,11 @@ sections:
         textAlign: left
 seo:
   type: Seo
+  metaTitle: Grootveld Video
+  metaDescription: Video production
+  metaTags:
+    - type: MetaTag
+      property: 'og:description'
+      content: 'Video Production, videography, videographer'
 type: PageLayout
 ---
